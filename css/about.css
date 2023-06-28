@@ -286,7 +286,7 @@ body {
 
 @media screen and (min-width: 620px) {
     .menu-wrap{
-        display: none;
+        display: block;
     }
     
 }
